@@ -1,7 +1,7 @@
 # ResponsibleAI4Geo
 
 ## Introduction
-This code repository is part of the project *Bridging the gap between artificial intelligence and society: Developing responsible and viable solutions for geospatial data* (with project no. 18091) of the research program Talent Program Veni 2020, which is (partly) financed by the Dutch Research Council (NWO).
+This code repository is part of the project *Bridging the gap between artificial intelligence and society: Developing responsible and viable solutions for geospatial data* (with project no. 18091) of the research program Talent Program Veni 2020, which is (partly) financed by the [Dutch Research Council (NWO)](https://www.nwo.nl/en).
 
 ## Content of the repository
 - The similarity metrics used to calculate the coherence between a new testing image and the distribution of landscape metrics within the training dataset. See the explanation of publication [1] below.
