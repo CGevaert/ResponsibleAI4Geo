@@ -4,7 +4,8 @@
 This code repository is part of the project *Bridging the gap between artificial intelligence and society: Developing responsible and viable solutions for geospatial data* (with project no. 18091) of the research program Talent Program Veni 2020, which is (partly) financed by the [Dutch Research Council (NWO)](https://www.nwo.nl/en).
 
 ## Content of the repository
-- The similarity metrics used to calculate the coherence between a new testing image and the distribution of landscape metrics within the training dataset. See the explanation of publication [1] below.
+### Similarity Metric
+The similarity metrics used to calculate the coherence between a new testing image and the distribution of landscape metrics within the training dataset. It provides the code utilized in publication [1] below.
 
 ## Project research publications
 1. Gevaert, C.M. & Belgiu, M. (2022) Assessing the generalization capability of deep learning networks for aerial image classification using landscape metrics. *International Journal of Applied Earth Observation and Geoinformation* [doi: 10.1016/j.jag.2022.103054](https://doi.org/10.1016/j.jag.2022.103054)
